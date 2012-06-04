@@ -6,8 +6,8 @@ namespace com.fantaros.lib.bitbuffer
 	{
 		byte peek(int offset);
 		bool peekOne(int offset);
-		void large(int bitsize);
-		void zero();
+		void enlarge(int bitsize);
+		void empty();
 		void fill();
 		void write(string data,int startOffset,int bits);
 		void write(byte[] data,int startOffset,int bits);
