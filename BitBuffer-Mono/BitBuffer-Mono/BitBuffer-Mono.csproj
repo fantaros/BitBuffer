@@ -36,7 +36,8 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="IBitBuffer.cs" />
-    <Compile Include="Bit.cs" />
+    <Compile Include="NandBuffer.cs" />
+    <Compile Include="BitBuffer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

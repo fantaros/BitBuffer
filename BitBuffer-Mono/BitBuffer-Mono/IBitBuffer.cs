@@ -6,13 +6,13 @@ namespace com.fantaros.lib.bitbuffer
 	{
 		byte peek(int offset);
 		bool peekOne(int offset);
+		void large(int bitsize);
 		void zero();
 		void fill();
 		void write(string data,int startOffset,int bits);
 		void write(byte[] data,int startOffset,int bits);
 		void write(Stream data,int startOffset,int bits);
-		Bit range(int startOffset,int bits);
-		byte[] getBytes(int startOffset,int bytes);
+		byte[] range(int startOffset,int bits);
 	}
 }
 
