@@ -1,13 +1,6 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BitBuffer-Mono\NorBuffer.cs">
-    <Files>
-      <File FileName="BitBuffer-Mono\BitBuffer.cs" Line="21" Column="45" />
-      <File FileName="BitBuffer-Mono\IBitBuffer.cs" Line="15" Column="42" />
-      <File FileName="BitBuffer-Mono\NandBuffer.cs" Line="4" Column="28" />
-      <File FileName="BitBuffer-Mono\NorBuffer.cs" Line="22" Column="23" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
