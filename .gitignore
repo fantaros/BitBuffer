@@ -2,3 +2,4 @@
 /BitBuffer-Java/bin
 /BitBuffer-Mono/BitBuffer-Mono/bin/Debug/BitBuffer-Mono.dll
 /BitBuffer-Mono/BitBuffer-Mono/bin/Debug/BitBuffer-Mono.pdb
+*.bak
